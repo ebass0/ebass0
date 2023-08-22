@@ -1,4 +1,4 @@
-### Olá, sou o Estevão Basso, apaixonado por programação e tecnologia! Seja bem-vindo(a) ao meu perfil! 🚀
+### Olá, sou o Estevão Basso, apaixonado por tecnologia! Seja bem-vindo(a) ao meu perfil! 🚀
 Graduando em Análise e Desenvolvimento de Sistemas pela UNICSUL.
 
 <div align="center">
