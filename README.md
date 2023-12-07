@@ -11,7 +11,7 @@ Graduando em Análise e Desenvolvimento de Sistemas pela UNICSUL.
 <h2 align="center">Tecnologias que estou trabalhando/aprendendo no momento</h2>
 <div align="center">
   <a href="https://skills.thijs.gg" target="_blank">
-    <img src="https://skills.thijs.gg/icons?i=javascript,html,css,cs,mysql,git,github,aws" alt="My Skills">
+    <img src="https://skills.thijs.gg/icons?i=javascript,react,express,nodejs,html,css,mysql,git,github,aws" alt="My Skills">
   </a>
 </div>
 
