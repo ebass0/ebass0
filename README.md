@@ -1,6 +1,13 @@
-### Olá, sou o Estevão Basso, apaixonado por tecnologia! Seja bem-vindo(a) ao meu perfil! 🚀
-Graduando em Análise e Desenvolvimento de Sistemas pela UNICSUL.
+# Bem-vindo ao Meu Perfil no GitHub! 👋
 
+### Olá, sou o Estevão Basso, um entusiasta Full Stack apaixonado por construir soluções inovadoras e eficientes.
+
+## Sobre Mim
+- 🤓 Graduando em Análise e Desenvolvimento de Sistemas - ADS
+- 🚀 Atualmente focado na área de Full Stack.
+- 🌱 Estudando e explorando diversas tecnologias.
+
+## Minha Contribuição no GitHub 📊
 <div align="center">
   <a href="https://github.com/ebass0"></a>
   
@@ -11,7 +18,7 @@ Graduando em Análise e Desenvolvimento de Sistemas pela UNICSUL.
 <h2 align="center">Tecnologias que estou trabalhando/aprendendo no momento</h2>
 <div align="center">
   <a href="https://skills.thijs.gg" target="_blank">
-    <img src="https://skills.thijs.gg/icons?i=javascript,react,express,nodejs,html,css,mysql,git,github,aws" alt="My Skills">
+    <img src="https://skills.thijs.gg/icons?i=javascript,react,express,nodejs,java,html,css,mysql,git,github,aws" alt="My Skills">
   </a>
 </div>
 
