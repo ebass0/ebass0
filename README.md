@@ -18,7 +18,7 @@
 <h2 align="center">Technologies I'm currently working/learning</h2>
 <div align="center">
   <a href="https://skills.thijs.gg" target="_blank">
-    <img src="https://skills.thijs.gg/icons?i=javascript,react,express,nodejs,java,html,css,mysql,git,github,aws" alt="My Skills">
+    <img src="https://skills.thijs.gg/icons?i=javascript,react,express,nodejs,java,html,css,postgres,mongodb,git,github,aws" alt="My Skills">
   </a>
 </div>
 
