@@ -3,7 +3,7 @@
 ### Hello, I'm Estevão Basso, a Full Stack enthusiast passionate about building innovative and efficient solutions.
 
 ## About Me
-- 🤓 Undergraduate student in Analysis and Systems Development.
+- 🤓 Graduated in Analysis and Systems Development.
 - 🚀 Currently focused on the Full Stack area.
 - 🌱 Studying and exploring various technologies.
 
@@ -18,7 +18,7 @@
 <h2 align="center">Technologies I'm currently working/learning</h2>
 <div align="center">
   <a href="https://skills.thijs.gg" target="_blank">
-    <img src="https://skills.thijs.gg/icons?i=javascript,react,express,nodejs,java,html,css,postgres,mongodb,git,github,aws" alt="My Skills">
+    <img src="https://skills.thijs.gg/icons?i=javascript,typescript,react,angular,express,nodejs,html,css,mysql,csharp,git,github,aws" alt="My Skills">
   </a>
 </div>
 
